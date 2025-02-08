@@ -1,10 +1,10 @@
-## Projects for Home and Homestead 🌱 Automation 
+# Projects for Home and Homestead 🌱 Automation 
 
-# Small Scale Farming Automation
+## Small Scale Farming Automation
 
-# Livestream Hardware Projects
+## Livestream Hardware Projects
 
-# Miscellaneous
+## Miscellaneous
 
 <!--
 **tinkydan/tinkydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
